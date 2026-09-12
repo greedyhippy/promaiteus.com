@@ -1,0 +1,59 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Promaiteus Terms of Use">
+  <title>Terms of Use | Promaiteus</title>
+  <style>
+    :root { color-scheme: light; }
+    body { margin: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; background: #f3f4f6; color: #111827; line-height: 1.65; }
+    main { max-width: 760px; margin: 0 auto; padding: 3rem 1.5rem 4rem; }
+    a { color: #1d4ed8; } h1 { font-size: clamp(2rem, 5vw, 3rem); line-height: 1.15; margin: 0 0 .5rem; } h2 { margin-top: 2.25rem; font-size: 1.35rem; } .eyebrow { color: #4b5563; margin: 0 0 2rem; } .notice { padding: 1rem 1.15rem; border-left: 4px solid #2563eb; background: #eff6ff; } footer { margin-top: 3rem; padding-top: 1.25rem; border-top: 1px solid #d1d5db; color: #4b5563; font-size: .95rem; }
+  </style>
+</head>
+<body>
+  <main>
+    <p><a href="/">← Promaiteus</a></p>
+    <h1>Terms of Use</h1>
+    <p class="eyebrow">Last updated: 12 September 2026</p>
+    <div class="notice"><strong>Early-stage website terms.</strong> These terms govern use of the Promaiteus website while it is a simple “coming soon” site.</div>
+
+    <h2>1. Acceptance</h2>
+    <p>By accessing or using this website, you agree to these Terms of Use. If you do not agree, please do not use the website.</p>
+
+    <h2>2. About the website</h2>
+    <p>Promaiteus provides AI training and automation services. The website is currently provided for general information about Promaiteus and may change without notice. It does not constitute an offer to provide services, professional advice, or a binding commitment by Promaiteus.</p>
+
+    <h2>3. No reliance</h2>
+    <p>We aim to keep website information accurate and up to date, but do not guarantee that it is complete, accurate, available or suitable for your particular circumstances. You should obtain independent professional advice where appropriate before relying on information from this website.</p>
+
+    <h2>4. Services</h2>
+    <p>Any services provided by Promaiteus will be subject to separately agreed written terms, such as a proposal, statement of work or service agreement. Those agreed terms will take precedence over these website terms where they conflict.</p>
+
+    <h2>5. Acceptable use</h2>
+    <p>You must not misuse the website, interfere with its operation or security, attempt unauthorised access, introduce malicious code, or use the website in a way that is unlawful or infringes the rights of others.</p>
+
+    <h2>6. Intellectual property</h2>
+    <p>The website’s content, design, branding and other materials are owned by or licensed to Promaiteus and are protected by applicable intellectual-property laws. You may view and use the website for personal or internal business information purposes. You may not copy, reproduce, modify, distribute or commercially exploit website materials without prior written permission, except where permitted by law.</p>
+
+    <h2>7. Third-party links and services</h2>
+    <p>The website may later contain links to third-party websites or services. We do not control and are not responsible for their content, availability, security or privacy practices. Your use of third-party services is subject to their own terms and policies.</p>
+
+    <h2>8. Liability</h2>
+    <p>To the maximum extent permitted by applicable law, Promaiteus is not liable for loss or damage arising from use of, or inability to use, this website or reliance on its content. Nothing in these terms excludes or limits liability that cannot lawfully be excluded or limited.</p>
+
+    <h2>9. Privacy</h2>
+    <p>Our handling of personal data is explained in our <a href="/privacy.html">Privacy Notice</a>.</p>
+
+    <h2>10. Governing law</h2>
+    <p>These terms are governed by the laws of Ireland. The courts of Ireland will have exclusive jurisdiction over any dispute arising out of or in connection with these terms or the website, subject to any mandatory consumer-protection rules that apply to you.</p>
+
+    <h2>11. Changes and contact</h2>
+    <p>We may update these terms from time to time by publishing a revised version on this page. Please review them periodically. For questions about these terms, please contact Promaiteus through the contact details published on our website or the channel through which you contacted us.</p>
+
+    <footer><a href="/privacy.html">Privacy Notice</a> · <a href="/">Promaiteus home</a></footer>
+  </main>
+</body>
+</html>
